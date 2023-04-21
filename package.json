@@ -34,7 +34,9 @@
         "statements": 90
       }
     },
-    "coverageReporters": ["json"]
+    "coverageReporters": [
+      "json"
+    ]
   },
   "devDependencies": {
     "babylon": "6.18.0",
